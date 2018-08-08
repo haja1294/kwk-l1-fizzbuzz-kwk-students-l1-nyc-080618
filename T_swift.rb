@@ -5,6 +5,14 @@ play=0
   puts"Play"
   play += 1
 end 
-end
 
+
+shake_it_out
+
+puts "and the hater's gonna"
+hate=0 
+until hate== 5 
+puts "Hate"
+play +=1 
+end 
 shake_it_out
