@@ -4,3 +4,4 @@ def shake_it_out
   puts"Play"
   play += 1
 end 
+end
