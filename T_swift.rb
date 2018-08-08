@@ -3,3 +3,4 @@ def shake_it_out
  while play_count=0
   puts"Play"
   play_count=play_count + 1 
+end 
