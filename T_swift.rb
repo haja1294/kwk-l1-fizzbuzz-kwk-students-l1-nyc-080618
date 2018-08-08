@@ -4,7 +4,7 @@ play=0
  until play == 5
   puts"Play"
   play += 1
-end 
+
 
 
 shake_it_out
