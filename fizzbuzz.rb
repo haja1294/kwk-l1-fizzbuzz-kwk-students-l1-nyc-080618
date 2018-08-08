@@ -5,7 +5,6 @@ puts"fizz"
   puts "buzz"
   elsif num % 3 == 0 && num % 5 == 0
   puts "fizzbuzz"
- end
   end 
 end
 
