@@ -8,4 +8,4 @@ puts"fizz"
   end 
 end
 
-fizzbuzz(15)
+fizzbuzz(9)
